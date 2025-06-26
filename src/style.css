@@ -192,6 +192,11 @@ main p {
   opacity: 0.6;
 }
 
+.lyrics {
+  color: #666666;
+
+}
+
 footer {
   color: white;
   background-image: linear-gradient(
